@@ -1,0 +1,2 @@
+# Database
+psycopg2==2.9.8    # PostgreSQL adapter for Python, used with SQLAlchemy or Django ORM **note if issuses installing ** brew install postgresql in order to use pg_config which is needed for psycopg2
